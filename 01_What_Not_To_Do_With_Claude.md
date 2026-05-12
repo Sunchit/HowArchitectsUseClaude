@@ -1,4 +1,4 @@
-# 01 — The Contractor Who Never Says No
+# 01 — What Not to Do With Claude?
 ## How to Actually Think About Claude (and Why Most Developers Get It Wrong)
 
 > **Series:** How Architects Use Claude  
@@ -480,4 +480,4 @@ Subscribe / follow:
 
 ---
 
-*01 · How Architects Use Claude · Series introduction and foundational mental model*
+*01 · How Architects Use Claude · What Not to Do With Claude — Series introduction and foundational mental model*

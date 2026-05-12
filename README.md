@@ -51,7 +51,7 @@ Every post is a **story** — a real-world scenario where a developer used Claud
 
 | # | Post | Core Idea | Link |
 |---|------|-----------|------|
-| 01 | The Contractor Who Never Says No — How to Actually Think About Claude | Claude is not a junior dev, not an oracle, not autocomplete. It is a literal contractor. Treat it accordingly. | [Read](./01_The_Contractor_Who_Never_Says_No.md) |
+| 01 | What Not to Do With Claude? — How to Actually Think About Claude | Claude is not a junior dev, not an oracle, not autocomplete. It is a literal contractor. Treat it accordingly. | [Read](./01_What_Not_To_Do_With_Claude.md) |
 | _more coming_ | | | |
 
 ### Part 2 — The Lifecycle, Phase by Phase
