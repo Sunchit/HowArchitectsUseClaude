@@ -49,31 +49,31 @@ Every post is a **story** — a real-world scenario where a developer used Claud
 
 ### Part 1 — The Foundations
 
-| # | Post | Core Idea |
-|---|------|-----------|
-| 01 | The Contractor Who Never Says No — How to Actually Think About Claude | Claude is not a junior dev, not an oracle, not autocomplete. It is a literal contractor. Treat it accordingly. |
-| _more coming_ | | |
+| # | Post | Core Idea | Link |
+|---|------|-----------|------|
+| 01 | The Contractor Who Never Says No — How to Actually Think About Claude | Claude is not a junior dev, not an oracle, not autocomplete. It is a literal contractor. Treat it accordingly. | [Read](./01_The_Contractor_Who_Never_Says_No.md) |
+| _more coming_ | | | |
 
 ### Part 2 — The Lifecycle, Phase by Phase
 
-| # | Post | Core Concept |
-|---|------|--------------|
-| 02 | Requirements & Design — The Underspecification Spiral | _coming soon_ |
-| 03 | Implementation — Scope Integrity, Hallucination Taxonomy, Context Window Cliff | _coming soon_ |
-| 04 | Testing — The Mocked-Tests-Pass Problem | _coming soon_ |
-| 05 | Code Review — Why Claude PRs Need More Review, Not Less | _coming soon_ |
-| 06 | Security Review — The OWASP Top 10 in AI-Generated Code | _coming soon_ |
-| 07 | Deployment — Claude Does Not Think About Rollouts | _coming soon_ |
-| 08 | Maintenance — Archaeological Debt and CLAUDE.md as a Living Document | _coming soon_ |
+| # | Post | Core Concept | Link |
+|---|------|--------------|------|
+| 02 | Requirements & Design — The Underspecification Spiral | How vague prompts produce plausible-looking output that's wrong in the details that matter | _coming soon_ |
+| 03 | Implementation — Scope Integrity, Hallucination Taxonomy, Context Window Cliff | The five types of Claude hallucinations and how to catch each one | _coming soon_ |
+| 04 | Testing — The Mocked-Tests-Pass Problem | Why high coverage on Claude-generated tests can be worse than no tests | _coming soon_ |
+| 05 | Code Review — Why Claude PRs Need More Review, Not Less | The familiarity illusion and the adversarial review posture | _coming soon_ |
+| 06 | Security Review — The OWASP Top 10 in AI-Generated Code | Where Claude introduces vulnerabilities through pattern-matching | _coming soon_ |
+| 07 | Deployment — Claude Does Not Think About Rollouts | Feature flags, canaries, observability — all invisible to Claude unless you ask | _coming soon_ |
+| 08 | Maintenance — Archaeological Debt and CLAUDE.md as a Living Document | How AI-generated codebases accumulate invisible technical debt | _coming soon_ |
 
 ### Part 3 — Organizational Practices
 
-| # | Post | Core Concept |
-|---|------|--------------|
-| 09 | Designing CLAUDE.md — The Contract Between Your Team and Claude | _coming soon_ |
-| 10 | Code Review Checklists for AI-Generated Code | _coming soon_ |
-| 11 | Incident Post-Mortems for AI-Caused Bugs | _coming soon_ |
-| 12 | When to NOT Use Claude — A Tier-by-Tier Risk Model | _coming soon_ |
+| # | Post | Core Concept | Link |
+|---|------|--------------|------|
+| 09 | Designing CLAUDE.md — The Contract Between Your Team and Claude | A template and the seven sections every CLAUDE.md needs | _coming soon_ |
+| 10 | Code Review Checklists for AI-Generated Code | Specific items your team should add to every PR template | _coming soon_ |
+| 11 | Incident Post-Mortems for AI-Caused Bugs | The post-mortem question that turns incidents into CLAUDE.md updates | _coming soon_ |
+| 12 | When to NOT Use Claude — A Tier-by-Tier Risk Model | The three signals that mean you should write the code yourself | _coming soon_ |
 
 ---
 
